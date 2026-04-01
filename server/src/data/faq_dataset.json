@@ -1,0 +1,17 @@
+[
+  {
+    "category": "Order Status",
+    "keywords": ["order status","track order","where is my order","order tracking","delivery status"],
+    "answer": "📦 To check your order status, please visit the 'My Orders' section in your account dashboard. Standard delivery takes 3-5 business days. Once shipped, you will receive a tracking link."
+  },
+  {
+    "category": "Return Policy",
+    "keywords": ["return","return policy","how to return","send back","refund process"],
+    "answer": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page."
+  },
+  {
+    "category": "Payment Issues",
+    "keywords": ["payment failed","double charge","payment issue","card declined"],
+    "answer": "💳 If a payment fails, any deducted amount is usually auto-reversed by your bank within 24-48 hours. Please ensure your card has sufficient funds and matches your billing address."
+  }
+]

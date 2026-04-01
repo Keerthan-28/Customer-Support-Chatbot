@@ -1,0 +1,354 @@
+[
+  {
+    "id": "feb14e25-031a-4262-b3ac-92ac1263e31d",
+    "sessionId": "orc25uu9vmnfs85b0",
+    "role": "user",
+    "content": "When will I get my refund?",
+    "language": "en",
+    "timestamp": "2026-04-01T08:27:12.132Z"
+  },
+  {
+    "id": "1785b5fa-ae8f-40f2-83a6-26438a051a83",
+    "sessionId": "orc25uu9vmnfs85b0",
+    "role": "assistant",
+    "content": "💰 **Refund Timeline**\n\n| Method | Time |\n|---|---|\n| Credit/Debit Card | 5–7 business days |\n| UPI / Net Banking | 3–5 business days |\n| Wallet | 1–2 business days |\n| Cash on Delivery | 7–10 business days |\n\nOnce your return is verified (24–48 hrs), the refund is auto‑initiated. You'll receive email confirmation.",
+    "language": "en",
+    "timestamp": "2026-04-01T08:27:12.153Z"
+  },
+  {
+    "id": "3e48986f-30c2-4d7f-a74a-7ddad7ea037c",
+    "sessionId": "e4xkekfgimnfs9izt",
+    "role": "user",
+    "content": "Where is my order?",
+    "language": "en",
+    "timestamp": "2026-04-01T08:27:57.303Z"
+  },
+  {
+    "id": "2a01744b-b476-477a-914c-d7f77d6eab03",
+    "sessionId": "e4xkekfgimnfs9izt",
+    "role": "assistant",
+    "content": "📦 **Order Status**\n\nTo check your order:\n1. Log in → go to **'My Orders'**\n2. Click your order number for real‑time tracking\n\nYou can also use your **Order ID** on our tracking page. Standard delivery takes **3–5 business days**.\n\nStill not showing? Orders placed within 24 hours may still be processing.",
+    "language": "en",
+    "timestamp": "2026-04-01T08:27:57.311Z"
+  },
+  {
+    "id": "eed23dc9-9ee5-4851-bc54-3fbf13c79e80",
+    "sessionId": "e4xkekfgimnfs9izt",
+    "role": "user",
+    "content": "Payment issue",
+    "language": "en",
+    "timestamp": "2026-04-01T08:33:53.198Z"
+  },
+  {
+    "id": "52435280-62aa-4384-b7b0-cb905c53ad94",
+    "sessionId": "e4xkekfgimnfs9izt",
+    "role": "assistant",
+    "content": "💳 **Payment Issues**\n\n**Payment failed?**\n- Check card has sufficient funds\n- Verify billing address matches bank records\n- Try a different payment method\n\n**Double charged?**\n- Auto‑reversed within 24 hours\n- If not, contact your bank with the Transaction ID\n\n📧 payments@support.com | 📞 1‑800‑XXX‑XXXX (Mon–Fri 9AM–6PM)",
+    "language": "en",
+    "timestamp": "2026-04-01T08:33:53.211Z"
+  },
+  {
+    "id": "369bd9b3-c6fc-4038-83de-63c212a5f932",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "user",
+    "content": "My payment failed",
+    "language": "en",
+    "timestamp": "2026-04-01T14:23:21.412Z"
+  },
+  {
+    "id": "a4ec345b-25b2-4597-a35f-95cc42a968a2",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "assistant",
+    "content": "💳 **Payment Issues**\n\n**Payment failed?**\n- Check card has sufficient funds\n- Verify billing address matches bank records\n- Try a different payment method\n\n**Double charged?**\n- Auto‑reversed within 24 hours\n- If not, contact your bank with the Transaction ID\n\n📧 payments@support.com | 📞 1‑800‑XXX‑XXXX (Mon–Fri 9AM–6PM)",
+    "language": "en",
+    "timestamp": "2026-04-01T14:23:21.422Z"
+  },
+  {
+    "id": "ae852592-43d2-4a45-974b-fa64ee981231",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "user",
+    "content": "i need delivery boy number",
+    "language": "en",
+    "timestamp": "2026-04-01T14:31:30.635Z"
+  },
+  {
+    "id": "7cb0caef-268c-4cd4-add5-5e5d6e0e0b88",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "assistant",
+    "content": "Thank you for reaching out! 😊 Could you share more details like your order number or describe the issue further? I want to make sure I give you the most accurate help.",
+    "language": "en",
+    "timestamp": "2026-04-01T14:31:30.649Z"
+  },
+  {
+    "id": "1080ee4f-61fa-4dff-a975-abdb0df1a957",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "user",
+    "content": "account help",
+    "language": "en",
+    "timestamp": "2026-04-01T14:32:00.165Z"
+  },
+  {
+    "id": "362be3f6-523a-494b-92af-b87fca68dc70",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "assistant",
+    "content": "🔐 **Account Help**\n\n**Forgot password?**\n1. Click **'Forgot Password'** on login page\n2. Enter registered email\n3. Click the reset link (valid 30 mins)\n\n**Account locked?** Wait 30 mins after 5 failed attempts, or use 'Forgot Password'.\n\n**New account?** → Click **'Sign Up'** and verify via email.",
+    "language": "en",
+    "timestamp": "2026-04-01T14:32:00.184Z"
+  },
+  {
+    "id": "4edf8bd6-36f9-425e-aea5-a32362929a7f",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "user",
+    "content": "payment issue",
+    "language": "en",
+    "timestamp": "2026-04-01T14:32:24.388Z"
+  },
+  {
+    "id": "dfd035ef-5e4a-4cd4-ba9b-4009986bab21",
+    "sessionId": "sbrb251t4mng4yjj1",
+    "role": "assistant",
+    "content": "💳 **Payment Issues**\n\n**Payment failed?**\n- Check card has sufficient funds\n- Verify billing address matches bank records\n- Try a different payment method\n\n**Double charged?**\n- Auto‑reversed within 24 hours\n- If not, contact your bank with the Transaction ID\n\n📧 payments@support.com | 📞 1‑800‑XXX‑XXXX (Mon–Fri 9AM–6PM)",
+    "language": "en",
+    "timestamp": "2026-04-01T14:32:24.397Z"
+  },
+  {
+    "id": "303e2436-dbbf-4a05-a85f-1993ae80d695",
+    "sessionId": "w27vlxrubmng5b8n3",
+    "role": "user",
+    "content": "Where is my order?",
+    "language": "en",
+    "timestamp": "2026-04-01T14:33:08.566Z"
+  },
+  {
+    "id": "f0c3cbda-da06-4bc1-916e-e4b7b5d0e9ea",
+    "sessionId": "w27vlxrubmng5b8n3",
+    "role": "assistant",
+    "content": "📦 **Order Status**\n\nTo check your order:\n1. Log in → go to **'My Orders'**\n2. Click your order number for real‑time tracking\n\nYou can also use your **Order ID** on our tracking page. Standard delivery takes **3–5 business days**.\n\nStill not showing? Orders placed within 24 hours may still be processing.",
+    "language": "en",
+    "timestamp": "2026-04-01T14:33:08.575Z"
+  },
+  {
+    "id": "ef27e6a3-fa66-437a-bf61-963b9f3554c5",
+    "sessionId": "mau3gsru4mng69iox",
+    "role": "user",
+    "content": "How do I return an item?",
+    "language": "en",
+    "timestamp": "2026-04-01T14:59:48.578Z"
+  },
+  {
+    "id": "eb0d5146-3304-42cb-9540-89a83324c076",
+    "sessionId": "mau3gsru4mng69iox",
+    "role": "assistant",
+    "content": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page.",
+    "language": "en",
+    "timestamp": "2026-04-01T14:59:48.586Z"
+  },
+  {
+    "id": "98440e28-1902-4bd3-bfef-9af8dcfc4eff",
+    "sessionId": "jo2j5n4qrmng7jfpq",
+    "role": "user",
+    "content": "How do I return an item?",
+    "language": "en",
+    "timestamp": "2026-04-01T15:35:28.163Z"
+  },
+  {
+    "id": "e5cbd2ef-c870-4659-afb2-756671a08589",
+    "sessionId": "jo2j5n4qrmng7jfpq",
+    "role": "assistant",
+    "content": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page.",
+    "language": "en",
+    "timestamp": "2026-04-01T15:35:28.174Z"
+  },
+  {
+    "id": "aebe8514-4787-4ce7-8d88-eb441a6d7695",
+    "sessionId": "jo2j5n4qrmng7jfpq",
+    "role": "user",
+    "content": "Account help",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:20.608Z"
+  },
+  {
+    "id": "a6a5e47c-277a-4be0-a262-7aa5ec0f980b",
+    "sessionId": "jo2j5n4qrmng7jfpq",
+    "role": "user",
+    "content": "Account help",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:22.727Z"
+  },
+  {
+    "id": "5c2049c6-5bcf-48c7-885f-1a4f992fcc4f",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "How do I return an item?",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:37.807Z"
+  },
+  {
+    "id": "ff3da059-c302-41c9-8f4f-ada8b0825da0",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "assistant",
+    "content": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:37.816Z"
+  },
+  {
+    "id": "0928f9d1-16db-4e08-802c-42d0c83c775d",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:44.321Z"
+  },
+  {
+    "id": "59273872-9095-422b-b17f-34c76f03c7ac",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:05:46.005Z"
+  },
+  {
+    "id": "9f61c4b8-082e-4ce2-9eb4-5e48fbe968c9",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:07:10.560Z"
+  },
+  {
+    "id": "4c5e9813-d600-4def-8abc-6a69359f6ae9",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:07:12.136Z"
+  },
+  {
+    "id": "8e4a495e-bdd4-40c7-83df-590c63371323",
+    "sessionId": "test",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:29:12.165Z"
+  },
+  {
+    "id": "069bc818-5e5b-49b6-bbef-ad9263b0619f",
+    "sessionId": "test",
+    "role": "assistant",
+    "content": "Here’s a quick overview of our shipping information. If you share your destination (country/zip code) and whether you’re shipping domestically or internationally, I can give exact estimates and costs.\n\n- Options: Standard shipping, Expedited shipping, and international shipping where available.\n- Processing time: Usually 1–2 business days to process orders (may be longer during peak times).\n- Domestic delivery estimates: Standard typically 3–7 business days after dispatch; Expedited faster (1–3 business days after dispatch).\n- International delivery estimates: Vary by country, generally 7–21+ days; duties/taxes may apply depending on the destination.\n- Tracking: A tracking number is emailed as soon as your order ships; you can also view status in your order.\n- Costs: Shipping charges are calculated at checkout based on destination and chosen method.\n\nIf you have a specific order or destination in mind, share the details (order number or address) and I’ll give you exact shipping estimates.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:29:37.853Z"
+  },
+  {
+    "id": "15550cd8-4fca-45b3-9d74-cc360884edf7",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:11.859Z"
+  },
+  {
+    "id": "874f1171-7d74-480a-b0b2-8fa922ae8d27",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "How do I return an item?",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:19.737Z"
+  },
+  {
+    "id": "f24cdd9d-02eb-4d97-841a-3a389071d38f",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:19.745Z"
+  },
+  {
+    "id": "a5bfceff-715c-4ce8-9c36-1349db3cbcbe",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "Order tracking & status",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:30.095Z"
+  },
+  {
+    "id": "35adf61e-7ca6-4b61-8454-73736c125296",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "📦 To check your order status, please visit the 'My Orders' section in your account dashboard. Standard delivery takes 3-5 business days. Once shipped, you will receive a tracking link.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:30.103Z"
+  },
+  {
+    "id": "de69e7d2-2c06-4330-b8bb-ebdd1d3013ab",
+    "sessionId": "4qzflm5w3mng8m816",
+    "role": "assistant",
+    "content": "Here’s our shipping information:\n\n- Processing time: Most orders ship within 1–2 business days after purchase (weekends/holidays may delay).\n- Shipping options: Standard, Expedited, and Express. Available options and estimated delivery times are shown at checkout.\n- Delivery estimates (guidance): Domestic deliveries typically 3–7 business days; international deliveries vary by country (often 7–21+ days).\n- Carriers: We work with major carriers such as UPS, FedEx, DHL, and national postal services.\n- Tracking: A tracking number is emailed after shipment and is also available in My Orders.\n- Fees: Shipping costs are calculated at checkout. Free standard shipping is available on eligible orders.\n- Duties/taxes (international): Duties and taxes may be collected at checkout or upon delivery, depending on destination.\n- Changes: You can choose shipping options at checkout and update your shipping address in My Orders before the package ships.\n- Need help with a specific order? Share your order number and destination, and I’ll assist.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:34.390Z"
+  },
+  {
+    "id": "d8340c63-8d5d-4298-81d9-67c03e8dc8ac",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "Account help",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:37.085Z"
+  },
+  {
+    "id": "d1f0a591-c465-48c9-a808-8269a1e9eab9",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "I’d be happy to help with your account. Common topics I can assist with:\n\n- Resetting your password: I can guide you through the Forgot Password flow.\n- Updating profile information: change your name, email, phone, or account details.\n- Managing addresses: add/edit default shipping and billing addresses.\n- Saved payment methods: add or remove cards or payment options.\n- Security: enable two-factor authentication and review recent login activity.\n- Email preferences: manage order updates and marketing emails.\n- Subscriptions/loyalty: check status, points, or rewards (if applicable).\n\nWhat would you like help with? If you’re having trouble accessing your account or suspect a security issue, you can reply with  and I’ll route you to a specialist.\n\n*Your query has been forwarded to a human support agent.*",
+    "language": "en",
+    "timestamp": "2026-04-01T16:35:48.286Z"
+  },
+  {
+    "id": "fd2cdac6-3137-4684-b957-0c8578f04423",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "Shipping information",
+    "language": "en",
+    "timestamp": "2026-04-01T16:36:01.107Z"
+  },
+  {
+    "id": "41ec48d3-be45-4d0a-9408-8c12c098c478",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "Here’s our shipping information. If you share your destination (country/zip) I can give exact estimates and rates.\n\n- Processing time: Most orders ship within 1–2 business days after placement (weekends/holidays may vary; if you’re in a remote area, it could take a bit longer).\n- Delivery options and estimates:\n  - Standard: typically 3–5 business days domestically; international timelines vary by country.\n  - Expedited/Express: usually 1–3 business days domestically; international timelines vary.\n  - International: generally 7–21+ days depending on destination.\n- Tracking: You’ll receive a tracking link by email and it will also appear in My Orders once your item ships.\n- Rates: Shipping charges depend on destination and chosen speed; exact amounts are shown at checkout.\n- Duties and taxes: International orders may incur duties/taxes, which may be collected at checkout or on delivery depending on the country.\n- Notes: Some destinations or addresses (e.g., certain PO Boxes) may have restrictions, and promotions may offer free or discounted shipping in specific regions.\n\nWould you like me to pull exact ETAs and rates for a specific country or zip code? If you have an order number, I can also check its current shipping status.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:36:22.412Z"
+  },
+  {
+    "id": "9f8f9a94-f375-428a-8f59-3fa59409939d",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "Payment issues",
+    "language": "en",
+    "timestamp": "2026-04-01T16:37:50.897Z"
+  },
+  {
+    "id": "f302830b-8c60-49b8-afdc-040ea0cca6d1",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "💳 If a payment fails, any deducted amount is usually auto-reversed by your bank within 24-48 hours. Please ensure your card has sufficient funds and matches your billing address.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:37:50.902Z"
+  },
+  {
+    "id": "839e3b53-b3f0-4443-a6ce-e5a44191c297",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "user",
+    "content": "Returns & refunds",
+    "language": "en",
+    "timestamp": "2026-04-01T16:38:05.813Z"
+  },
+  {
+    "id": "20ab10c3-c935-4343-9321-6162dbc80f4c",
+    "sessionId": "i2u4q5bcqmng9oemu",
+    "role": "assistant",
+    "content": "🔄 We offer a 30-day return window from the date of purchase. Items must be unused and in their original packaging. You can initiate a return directly from the 'My Orders' page.",
+    "language": "en",
+    "timestamp": "2026-04-01T16:38:05.818Z"
+  }
+]

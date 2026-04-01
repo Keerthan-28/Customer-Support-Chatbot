@@ -1,0 +1,16 @@
+[
+  {
+    "id": "66ce3dd0-1d97-421d-9f16-8cf69839447a",
+    "username": "Keerthan D",
+    "password": "$2b$10$g4BxfC6eOdPkJMOn0Baww.hKh2u0s5Xtxc9E1g9n18VG28VfS99lm",
+    "role": "admin",
+    "createdAt": "2026-04-01T15:33:42.209Z"
+  },
+  {
+    "id": "5e147510-c229-4a86-9cb5-75fcc31dbb98",
+    "username": "Keerthan",
+    "password": "$2b$10$LZqyRe249vBv4sc/LCb0x.YWcPppfuZGxuGRpcNkY6VYVqycbRiL6",
+    "role": "admin",
+    "createdAt": "2026-04-01T15:35:02.169Z"
+  }
+]
